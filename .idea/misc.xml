@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_all_collections.xml" value="0.27291666666666664" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_graph_view.xml" value="0.27291666666666664" />
+        <entry key="..\:/DISD3/OPSC7311/OPSC POE/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_item_target.xml" value="0.27291666666666664" />
+        <entry key="..\:/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_boards.xml" value="0.2" />
+        <entry key="..\:/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_collection_goal.xml" value="0.27291666666666664" />
+        <entry key="..\:/ST10130389_TASK2_POE/TASK2_POE-master/TASK2_POE-master/app/src/main/res/layout/activity_item_target.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
